@@ -2,6 +2,11 @@
 
 I'm a developer Java at Spoot Educação. I'm from Rio de Janerio,RJ-Brazil.
 
+## Social Media
+<div style="margin: 10px 10px 10px 10px">
+    
+[![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Frs_marinheiro)](https://twitter.com/rs_marinheiro)
+
 <!--
 **rmarinheiro/rmarinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
