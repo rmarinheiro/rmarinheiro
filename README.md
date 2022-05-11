@@ -42,9 +42,9 @@ Here are some ideas to get you started:
     
  # Meus últimos 5 posts
 <!-- BLOG-POST-LIST:START -->
+- [Lazy/Eager - Carregamento de Entidades utilizando JPA com SpringBoot](https://dev.to/rs_marinheiro/lazyeager-carregamento-de-entidades-utilizando-jpa-com-springboot-46hp)
 - [Desenvolvimento em Camadas utilizando DTO](https://dev.to/rs_marinheiro/desenvolvimento-em-camadas-utilizando-dto-3n5i)
 - [Documente sua API SpringBoot com Swagger](https://dev.to/rs_marinheiro/documente-sua-api-springboot-com-swagger-cni)
 - [Fundamentos de Teste Automatizados](https://dev.to/rs_marinheiro/fundamentos-de-teste-automatizados-43a7)
 - [Manual de Sobrevivencia:Git/GitHub](https://dev.to/rs_marinheiro/manual-de-sobrevivencia-git-github-13cp)
-- [Controle de Versão &lpar;Versionamento de Código&rpar;](https://dev.to/rs_marinheiro/controle-de-versao-versionamento-de-codigo-1hg)
 <!-- BLOG-POST-LIST:END -->
