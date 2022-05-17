@@ -12,7 +12,6 @@ I'm a developer Java at Spoot Educação. I'm from Rio de Janerio,RJ-Brazil.
     
 [![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Frs_marinheiro)](https://twitter.com/rs_marinheiro)
 [![Linkedin URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmaxarruda%2F)](https://www.linkedin.com/in/rafael-da-silva-marinheiro-928419143/)
-=rmarinheiro&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&hide_title=true&hide_border=true" />
 </a>
     
  # Meus últimos 5 posts
