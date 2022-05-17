@@ -29,9 +29,7 @@ Here are some ideas to get you started:
 -->
 ## Most Used Languages
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmarinheiro&layout=compact&langs_count=20&hide_title=true&hide_border=true" />    
-</a> 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmarinheiro)](https://github.com/rmarinheiro/github-readme-stats)
 
 ## Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
